@@ -13,19 +13,19 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */; };
 		96905EF65AED1B983A6B3ABC /* libPods-GloriaNavigation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58EEBF8E8E6FB1BC6CAF49B5 /* libPods-GloriaNavigation.a */; };
-		AF71B9DA2D3FB3B70060C32B /* PoilabsNavigation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF71B9D82D3FB3B70060C32B /* PoilabsNavigation.framework */; };
-		AF71B9DB2D3FB3B70060C32B /* PoilabsPositioning.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF71B9D92D3FB3B70060C32B /* PoilabsPositioning.framework */; };
-		AF71B9DC2D3FB3BA0060C32B /* PoilabsNavigation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF71B9D82D3FB3B70060C32B /* PoilabsNavigation.framework */; };
-		AF71B9DD2D3FB3BB0060C32B /* PoilabsNavigation.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AF71B9D82D3FB3B70060C32B /* PoilabsNavigation.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		AF71B9DF2D3FB3BF0060C32B /* PoilabsPositioning.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF71B9D92D3FB3B70060C32B /* PoilabsPositioning.framework */; };
-		AF71B9E02D3FB3BF0060C32B /* PoilabsPositioning.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AF71B9D92D3FB3B70060C32B /* PoilabsPositioning.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		AF71B9E22D3FB4A20060C32B /* NavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF71B9E12D3FB48C0060C32B /* NavigationView.swift */; };
 		AF71B9E42D3FB4E80060C32B /* PoilabsMapManager.m in Sources */ = {isa = PBXBuildFile; fileRef = AF71B9E32D3FB4E30060C32B /* PoilabsMapManager.m */; };
 		AF71B9E72D3FB52B0060C32B /* PoilabsNavigationBridge.m in Sources */ = {isa = PBXBuildFile; fileRef = AF71B9E62D3FB5280060C32B /* PoilabsNavigationBridge.m */; };
 		AF71B9E92D3FB6840060C32B /* MapboxMobileEvents.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF71B9E82D3FB6840060C32B /* MapboxMobileEvents.xcframework */; };
 		AF71B9EA2D3FB68A0060C32B /* MapboxMobileEvents.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = AF71B9E82D3FB6840060C32B /* MapboxMobileEvents.xcframework */; };
 		AF71B9EB2D3FB68A0060C32B /* MapboxMobileEvents.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AF71B9E82D3FB6840060C32B /* MapboxMobileEvents.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		AF71B9ED2D3FC1020060C32B /* PoilabsNavigationResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = AF71B9EC2D3FC1020060C32B /* PoilabsNavigationResources.bundle */; };
+		AFB89A862D52097C0071DCD4 /* PoilabsNavigationResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = AFB89A842D52097C0071DCD4 /* PoilabsNavigationResources.bundle */; };
+		AFB89AA52D52167C0071DCD4 /* PoilabsNavigation.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFB89AA32D52167C0071DCD4 /* PoilabsNavigation.xcframework */; };
+		AFB89AA62D52167C0071DCD4 /* PoilabsPositioning.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFB89AA42D52167C0071DCD4 /* PoilabsPositioning.xcframework */; };
+		AFB89AA72D5216820071DCD4 /* PoilabsNavigation.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFB89AA32D52167C0071DCD4 /* PoilabsNavigation.xcframework */; };
+		AFB89AA82D5216820071DCD4 /* PoilabsNavigation.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AFB89AA32D52167C0071DCD4 /* PoilabsNavigation.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		AFB89AA92D5216820071DCD4 /* PoilabsPositioning.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = AFB89AA42D52167C0071DCD4 /* PoilabsPositioning.xcframework */; };
+		AFB89AAA2D5216820071DCD4 /* PoilabsPositioning.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AFB89AA42D52167C0071DCD4 /* PoilabsPositioning.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B18059E884C0ABDD17F3DC3D /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */; };
 		BB2F792D24A3F905000567C9 /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB2F792C24A3F905000567C9 /* Expo.plist */; };
 		F6052796E232AD7F99DF3E10 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = E6845B2235BD4BD9BE4D8B92 /* PrivacyInfo.xcprivacy */; };
@@ -38,9 +38,9 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				AF71B9DD2D3FB3BB0060C32B /* PoilabsNavigation.framework in Embed Frameworks */,
-				AF71B9E02D3FB3BF0060C32B /* PoilabsPositioning.framework in Embed Frameworks */,
+				AFB89AA82D5216820071DCD4 /* PoilabsNavigation.xcframework in Embed Frameworks */,
 				AF71B9EB2D3FB68A0060C32B /* MapboxMobileEvents.xcframework in Embed Frameworks */,
+				AFB89AAA2D5216820071DCD4 /* PoilabsPositioning.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -59,14 +59,14 @@
 		6C2E3173556A471DD304B334 /* Pods-GloriaNavigation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GloriaNavigation.debug.xcconfig"; path = "Target Support Files/Pods-GloriaNavigation/Pods-GloriaNavigation.debug.xcconfig"; sourceTree = "<group>"; };
 		7A4D352CD337FB3A3BF06240 /* Pods-GloriaNavigation.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GloriaNavigation.release.xcconfig"; path = "Target Support Files/Pods-GloriaNavigation/Pods-GloriaNavigation.release.xcconfig"; sourceTree = "<group>"; };
 		AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = SplashScreen.storyboard; path = GloriaNavigation/SplashScreen.storyboard; sourceTree = "<group>"; };
-		AF71B9D82D3FB3B70060C32B /* PoilabsNavigation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PoilabsNavigation.framework; sourceTree = "<group>"; };
-		AF71B9D92D3FB3B70060C32B /* PoilabsPositioning.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PoilabsPositioning.framework; sourceTree = "<group>"; };
 		AF71B9E12D3FB48C0060C32B /* NavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationView.swift; sourceTree = "<group>"; };
 		AF71B9E32D3FB4E30060C32B /* PoilabsMapManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PoilabsMapManager.m; sourceTree = "<group>"; };
 		AF71B9E52D3FB5150060C32B /* PoilabsNavigationBridge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PoilabsNavigationBridge.h; sourceTree = "<group>"; };
 		AF71B9E62D3FB5280060C32B /* PoilabsNavigationBridge.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PoilabsNavigationBridge.m; sourceTree = "<group>"; };
 		AF71B9E82D3FB6840060C32B /* MapboxMobileEvents.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = MapboxMobileEvents.xcframework; sourceTree = "<group>"; };
-		AF71B9EC2D3FC1020060C32B /* PoilabsNavigationResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = PoilabsNavigationResources.bundle; sourceTree = "<group>"; };
+		AFB89A842D52097C0071DCD4 /* PoilabsNavigationResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = PoilabsNavigationResources.bundle; sourceTree = "<group>"; };
+		AFB89AA32D52167C0071DCD4 /* PoilabsNavigation.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = PoilabsNavigation.xcframework; sourceTree = "<group>"; };
+		AFB89AA42D52167C0071DCD4 /* PoilabsPositioning.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = PoilabsPositioning.xcframework; sourceTree = "<group>"; };
 		BB2F792C24A3F905000567C9 /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
 		D409BA73F90E417C822A07B4 /* GloriaNavigation-Bridging-Header.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = "GloriaNavigation-Bridging-Header.h"; path = "GloriaNavigation/GloriaNavigation-Bridging-Header.h"; sourceTree = "<group>"; };
 		E6845B2235BD4BD9BE4D8B92 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = GloriaNavigation/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
@@ -79,11 +79,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AF71B9DA2D3FB3B70060C32B /* PoilabsNavigation.framework in Frameworks */,
-				AF71B9DC2D3FB3BA0060C32B /* PoilabsNavigation.framework in Frameworks */,
-				AF71B9DF2D3FB3BF0060C32B /* PoilabsPositioning.framework in Frameworks */,
-				AF71B9DB2D3FB3B70060C32B /* PoilabsPositioning.framework in Frameworks */,
+				AFB89AA72D5216820071DCD4 /* PoilabsNavigation.xcframework in Frameworks */,
+				AFB89AA52D52167C0071DCD4 /* PoilabsNavigation.xcframework in Frameworks */,
+				AFB89AA62D52167C0071DCD4 /* PoilabsPositioning.xcframework in Frameworks */,
 				96905EF65AED1B983A6B3ABC /* libPods-GloriaNavigation.a in Frameworks */,
+				AFB89AA92D5216820071DCD4 /* PoilabsPositioning.xcframework in Frameworks */,
 				AF71B9E92D3FB6840060C32B /* MapboxMobileEvents.xcframework in Frameworks */,
 				AF71B9EA2D3FB68A0060C32B /* MapboxMobileEvents.xcframework in Frameworks */,
 			);
@@ -132,10 +132,10 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				AF71B9EC2D3FC1020060C32B /* PoilabsNavigationResources.bundle */,
+				AFB89AA32D52167C0071DCD4 /* PoilabsNavigation.xcframework */,
+				AFB89AA42D52167C0071DCD4 /* PoilabsPositioning.xcframework */,
+				AFB89A842D52097C0071DCD4 /* PoilabsNavigationResources.bundle */,
 				AF71B9E82D3FB6840060C32B /* MapboxMobileEvents.xcframework */,
-				AF71B9D82D3FB3B70060C32B /* PoilabsNavigation.framework */,
-				AF71B9D92D3FB3B70060C32B /* PoilabsPositioning.framework */,
 				13B07FAE1A68108700A75B9A /* GloriaNavigation */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				83CBBA001A601CBA00E9B192 /* Products */,
@@ -255,7 +255,7 @@
 				BB2F792D24A3F905000567C9 /* Expo.plist in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */,
-				AF71B9ED2D3FC1020060C32B /* PoilabsNavigationResources.bundle in Resources */,
+				AFB89A862D52097C0071DCD4 /* PoilabsNavigationResources.bundle in Resources */,
 				F6052796E232AD7F99DF3E10 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -438,7 +438,7 @@
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "GloriaNavigation/GloriaNavigation-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -477,7 +477,7 @@
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "GloriaNavigation/GloriaNavigation-Bridging-Header.h";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -538,10 +538,7 @@
 				LIBRARY_SEARCH_PATHS = "$(SDKROOT)/usr/lib/swift\"$(inherited)\"";
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
@@ -596,10 +593,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = "$(SDKROOT)/usr/lib/swift\"$(inherited)\"";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
