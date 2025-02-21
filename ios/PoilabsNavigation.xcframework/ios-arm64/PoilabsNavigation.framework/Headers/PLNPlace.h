@@ -9,6 +9,7 @@
 #import "PLNFacility.h"
 #import "PLNPositioning.h"
 #import "PLFloor.h"
+#import "PLNHexColorConverter.h"
 
 #ifndef PLNPlace_h
 #define PLNPlace_h
@@ -44,6 +45,8 @@
 -(PLNPlace *)getPlaceWithId:(NSString *)placeId;
 
 -(NSArray<PLFloor *>*)getFloors;
+
+-(UIColor *)getClickedColor;
 
 @end
 
